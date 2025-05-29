@@ -1,0 +1,5 @@
+import{O as o,j as t}from"./entry.client-DqQkXF8J.js";const i="My name is Ivan Kozlovsky, and I am a student from group 8-1214 at the Mathematical department.",s=[{depth:2,value:"About Me",id:"about-me"},{depth:2,value:"About My Library",id:"about-my-library"}],d={title:"About"};function n(a){const e={h2:"h2",p:"p",...o(),...a.components};return t.jsxs(t.Fragment,{children:[t.jsx(e.h2,{id:"about-me",children:"About Me"}),`
+`,t.jsx(e.p,{children:"My name is Ivan Kozlovsky, and I am a student from group 8-1214 at the Mathematical department."}),`
+`,t.jsx(e.h2,{id:"about-my-library",children:"About My Library"}),`
+`,t.jsx(e.p,{children:"My Library is a powerful and flexible tool designed to help you build amazing applications with ease. It provides a wide range of features and components that can be easily integrated into your projects."})]})}function u(a={}){const{wrapper:e}={...o(),...a.components};return e?t.jsx(e,{...a,children:t.jsx(n,{...a})}):n(a)}export{u as default,i as excerpt,d as frontmatter,s as tableOfContents};
+//# sourceMappingURL=about-_LMOMFwF.js.map
